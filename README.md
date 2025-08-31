@@ -54,6 +54,7 @@ ros2 launch my_robot_bringup robot_news_app.launch.xml
 ## 📁 Project structure
 
 ---
+```bash
 turtle_chaser/
 ├── .gitignore
 ├── LICENSE
@@ -83,7 +84,7 @@ turtle_chaser/
 │   ├── CMakeLists.txt
 │   └── package.xml
 └── README.md
-
+```
 
 ## 📜 Features
 
